@@ -1,0 +1,14 @@
+Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Miércoles 15 de agosto 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+---- 
+	1) Me reuní en ImpactHUB e hice una revisión exhaustiva de la página Bitnibs.com para encontrar problemas y sus soluciones.
+	2) Creé una lista de las mejoras a realizar y las compartí en Slack para dividir las mismas con Jesús Correa, ademas de aportar algunas ideas para la realización de ellas y sobre la squeeze page que realizará Johameli Muñoz. 
+	3) No se pudo crear o avanzar mucho ya que en la sala de ImpactHUB sólo estuvimos Bárbara, Elias y yo conversando sobre las ideas y el contenido que se debe hacer en las tareas y por remoto se conectó el resto de mi equipo pero al final de la tarde.
+---
+Horas dedicadas: 5horas (estancia en el ImpactHUB)
