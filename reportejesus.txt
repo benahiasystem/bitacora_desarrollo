@@ -1,0 +1,14 @@
+Bitácora de trabajo de Jesús Correa para el equipo de Desarrollo tecnológico.
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+Agosto 2018
+
+Miércoles 15: 
+	1) Continué y culminé un curso de html.
+	2) Copiaré el repositorio de la página de Bit&Nibs, estudiaré el código para realizar las mejoras pautadas e iniciaré un curso de CSS.
+	3) Me veo en la necesidad de aprender lo más rápido posible html, CSS, Bootstrap y toda herramienta de diseño web que se me vaya presentando para llevar acabo la tarea correspondiente a la historia de usuario EDT1.
