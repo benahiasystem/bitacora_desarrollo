@@ -1,4 +1,4 @@
-Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Miércoles 15 de agosto 2018:
+Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Miércoles 15 al miércoles 29 de agosto 2018:
 
 1) ¿Qué hice desde la última reunión diaria hasta ahora?
 
@@ -6,9 +6,24 @@ Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Miércoles 1
 
 3) ¿Qué problemas o impedimentos tengo?
 
----- 
+
+--- 
+---
+Miércoles 15:
 	1) Me reuní en ImpactHUB e hice una revisión exhaustiva de la página Bitnibs.com para encontrar problemas y sus soluciones.
 	2) Creé una lista de las mejoras a realizar y las compartí en Slack para dividir las mismas con Jesús Correa, ademas de aportar algunas ideas para la realización de ellas y sobre la squeeze page que realizará Johameli Muñoz. 
 	3) No se pudo crear o avanzar mucho ya que en la sala de ImpactHUB sólo estuvimos Bárbara, Elias y yo conversando sobre las ideas y el contenido que se debe hacer en las tareas y por remoto se conectó el resto de mi equipo pero al final de la tarde.
----
+
 Horas dedicadas: 5horas (estancia en el ImpactHUB)
+
+---
+--- 
+Jueves 16
+	1) Cloné el repositorio del website Bitnibs.com para trabajar en él.
+	2) Estuve trabajando en eliminar la sección de "ChocoPowerDay" que no se usará y agregar las redes sociales al código.
+	3) Por ser muy pesado el repositorio en GitHub y tener mala conexión a internet, he clonado la web con el navegador Chrome para ir trabajando mientras bajo el repositorio en otro momento y le agrego los cambios.
+
+Horas dedicadas: 3horas
+
+---
+---
