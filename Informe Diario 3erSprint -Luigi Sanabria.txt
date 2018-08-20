@@ -27,3 +27,20 @@ Horas dedicadas: 3horas
 
 ---
 ---
+Viernes 17
+	1) Trabajé revisando y configurando los link's para el desplazamiento dentro de la página.
+	2) Estuve buscando algunos códigos para agregar algunas configuraciones a la página mientras espero que el diseñador me envíe las imágenes para las secciones.
+	3) Ninguno
+
+Horas dedicadas: 3horas
+
+---
+---
+Lunes 18
+	1) Hoy descargué el repositorio de GitHub de Bit&Nibs
+	2) Estuve comparando los códigos del repositorio descargado de Github con el que había usado principalmente para fusionarlos y trabajar en él.
+	3) Al intentar fusionar el trabajo que había realizado el día jueves, me di cuenta que la sección "ChocoPowerDay" no estaba incluida en este repositorio. Por otra parte, el paquete de Software XAMPP dejó de funcionar en mi computadora, tuve que reinstalar pero no funcionó y tuve que descargar otro paquete (wampserver) para poder visualizar los cambios realizados en el código. La mayor parte del tiempo la pasé descargando el repositorio y los programas necesarios.
+
+Horas dedicadas: 4horas
+---
+---
