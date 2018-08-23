@@ -97,3 +97,41 @@ hizo en el sprint previo y que se piensa adaptar.
 2) Voy a estar trabajando en el diseño de la base de datos y su respectiva conexión.
 
 3) De a momento no se ha presentado impedimentos.
+
+
+Jueves 16:
+
+1) Creación de modelo entidad relación, junto con las tablas, relaciones y modelo UML para la base de datos del concurso.
+
+2) Analizaré los códigos de registro php de la página de bitnibs.com para usarlos también en la squeeze.
+
+3) De a momento se ha presentado dificultades de aprendizaje del lenguaje de php.
+
+
+Lunes 20:
+
+1) Se realizaron pruebas para la conexión de la base de datos de manera remota en el programa de phpmyadmin, presentandose incon-
+venientes en la conexión sin poder continuar.
+
+2) Seguir realizando investigaciones para poner puesta en producción la base de datos.
+
+3) De a momento no se ha presentado impedimentos.
+
+Martes 21:
+
+1) Se realizaron pruebas para el código adaptado de registro de la página bitnibs.com y no se tuvo éxito en el registro para la
+base de datos, por lo cual se han estado realizando ciertas modificaciones.
+
+2) Seguir modificando el código de backend de php para lograr una conexión éxitosa.
+
+3) De a momento se ha presentado dificultad en aprendizaje.
+
+
+Miércoles 22:
+
+1) Se optó por modificar la base de datos en vista a los errores presentes, además de realizar un código nuevo que fue suminis-
+trado por Nelson B.
+
+2) Seguir trabajando en el código de conexión a la BD del concurso.
+
+3) De a momento no se ha presentado mayor dificultad que la de aprendizaje.
