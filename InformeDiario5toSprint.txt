@@ -1,0 +1,26 @@
+Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Miércoles 12 al miércoles 19 de septiembre 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de mañana hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+
+--- 
+Miércoles 12/09
+	1) Me reuní en ImpactHUB con todo el equipo e hicimos una revisión de las historias de usuario para asignar las de este sprint 
+	2) organizar y colocar las HU con sus tareas en el tablero de Trello, generar los documentos para la solicitud a los otros equipos y envíaselo al equipo de Marketing
+	3) Ninguno
+
+Horas dedicadas: 6Horas
+---
+---
+Jueves 13/09
+	1) Estuve investigando para exportar las bases de datos de Google Form en formato CSV mientras me dan las credenciales de las cuentas.
+	2) Crearé un código HTML/Css de landing page para disfrazar el Google Form del evento "Impresión 3D"
+	3) Fallas en la conexión de internet
+
+Horas dedicadas: 3Horas
+---
+---
