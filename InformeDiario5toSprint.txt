@@ -32,3 +32,9 @@ Viernes 14/09
 Horas dedicadas: 2h:30min
 ---
 ---
+Lunes 17/09
+	1) Exporté todas las bases de datos recopiladas en mailchimp, las indentifiqué por su nombre y se las envié a Johameli para que haga la organización de las mismas. También observé las landing pages creadas por Bárbara para tomar referencia de lo que se quiere para el próximo evento e hice el diagrama del funcionamiento del sistema.
+	2) Haré una base html para cuando tengan los datos del evento sea sólo de agregar/modificar detalles.
+	3) Ninguna
+
+Horas dedicada: 3Horas
