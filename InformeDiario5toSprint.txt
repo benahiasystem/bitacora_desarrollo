@@ -24,3 +24,11 @@ Jueves 13/09
 Horas dedicadas: 3Horas
 ---
 ---
+Viernes 14/09
+	1) Hice una landing page de prueba con mi cuenta de mailchimp para practicar como extraer el código de fuente para utilizarlo en otro hosting (imaginando que fuera el de bitnibs.com) mientras me enviaban los datos de la cuenta.
+	2) Crearé un diagrama del "Magnet" al realizar la landing page para los interesados al evento. Seguiré investigando para hacer el proceso más sencillo.
+	3) Ninguna
+
+Horas dedicadas: 2h:30min
+---
+---
