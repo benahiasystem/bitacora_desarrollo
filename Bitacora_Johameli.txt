@@ -1,0 +1,137 @@
+Bitácora de trabajo de Johameli Muñoz para el equipo de desarrollo.
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+
+Agosto 2018
+
+Miércoles 01:
+
+1) Este día pude colocar en detenido o como terminadas algunas de las tareas que se llevó a cabo en el Sprint Introductorio,
+de las cuales como terminadas, fueron: desarrollo de sección de entrevistas para página Bit&Nibs y creación del README.MD
+creativo para enseñar a clonar y forkar. Como tarea detenida quedó el gif para el README.MD
+A parte de las posibles tareas a tomar para llevar a cabo en el sprint, tomé registro del sprint diario.
+
+2) Se está planificando un nuevo Sprint de Prueba de una semana, donde me propuse organizar mejor mis ideas y tener más orden
+con el equipo de desarrollo para poder hacer un entregable en el área de desarrollo que me corresponde, en este caso se planteó
+una Squeeze Page para la página de la Chocosfera de la precampaña.
+
+3) Algunos de los impedimentos es el conocimiento no tan profunda para saber cuál contenido poner y hacer una distribución de
+los elementos en la página con una buena experiencia de usuario.
+
+
+Jueves 02:
+
+1) Comencé con el desarrollo de front-end en Bootstrap para la página squeeze. Tuve una reunión con marketing, dónde pude tomar
+en cuenta algunos criterios para su desarrollo, también pude guíarme del manual de colores subido por Andy, agregando
+otras tonalidades, llevé registro del sprint diario.
+
+2) Seguiré trabajando en el desarrollo del front-end, investigando sobre la mejor presentación para la squeeze.
+
+3) No recibo contenido completo por parte de marketing.
+
+
+Viernes 03:
+
+1) Continue el desarrollo del front-end de la página y haciendo investigaciones con gamas de colores posibles a usar para la
+página, llevé registro del sprint diario.
+
+2) Seguiré trabajando en el desarrollo del front-end, investigando sobre la mejor presentación para la squeeze.
+
+3) No recibo contenido completo por parte de marketing.
+
+
+Lunes 06:
+
+1) Realice validaciones del squeeze con Js, subí algunas sugerencias de marketing y posibles contenidos redactados, llevé registro 
+del sprint diario.
+
+2) Seguiré trabajando en el desarrollo del front-end, investigando sobre la mejor presentación para la squeeze.
+
+3) No recibo contenido completo por parte de marketing.
+
+
+Martes 07:
+
+1) La página squeeze se terminó de pulir poniendo letras decorativas y la presentación de contenido, por criterio propio. Llevé 
+registro del sprint diario
+
+2) Ya culminado el trabajo en front-end, no se pudo recibir de marketing todos los lineamientos para desarrollar éxitosamente
+la squeeze en el front-end.
+
+3) No encontré la forma de realizar el backend de la página por tantas ideas que se conversaron en el equipo y que debía 
+obligarme a implementar la mejor BD.
+
+
+Lunes 13:
+
+1) Estuve el día de hoy reunida en el Impact Hub con la mayoría del equipo de desarrollo, discutiendo las posibles estrategias
+de desarrollo a llevarse a cabo en este sprint, considerando el concurso que se tomará en cuenta en Instagram por los 1000 
+seguidores.
+
+2) Estuve modificando el tablero de Trello, considerando tareas pendientes mías y de mis compañeros.
+
+3) Posiblemente los conocimientos para no abordar rápidamente con el montaje de la página, lo cual buscaré la ayuda de mi
+compañero Nelson.
+
+
+Martes 14:
+
+1) Estuve realizando investigaciones en Firebase para que fuese aplicado como BD en las plataformas.
+
+2) En investigaciones para realizar la Base de Datos para la squeeze.
+
+3) Se presenta una curva de aprendizaje para la aplicación de FireBase un poco alta.
+
+
+Miércoles 15:
+
+1) Reunión con Rosmary en la biblioteca de Los Palos Grandes, con ella se pudo terminar de definir las tareas que cada uno lleva-
+ría a cabo a lo largo del Sprint. Estuve desarrollando el MER para la BD del concurso de los 1000 seguidores del squeeze que se
+hizo en el sprint previo y que se piensa adaptar.
+
+2) Voy a estar trabajando en el diseño de la base de datos y su respectiva conexión.
+
+3) De a momento no se ha presentado impedimentos.
+
+
+Jueves 16:
+
+1) Creación de modelo entidad relación, junto con las tablas, relaciones y modelo UML para la base de datos del concurso.
+
+2) Analizaré los códigos de registro php de la página de bitnibs.com para usarlos también en la squeeze.
+
+3) De a momento se ha presentado dificultades de aprendizaje del lenguaje de php.
+
+
+Lunes 20:
+
+1) Se realizaron pruebas para la conexión de la base de datos de manera remota en el programa de phpmyadmin, presentandose incon-
+venientes en la conexión sin poder continuar.
+
+2) Seguir realizando investigaciones para poner puesta en producción la base de datos.
+
+3) De a momento no se ha presentado impedimentos.
+
+Martes 21:
+
+1) Se realizaron pruebas para el código adaptado de registro de la página bitnibs.com y no se tuvo éxito en el registro para la
+base de datos, por lo cual se han estado realizando ciertas modificaciones.
+
+2) Seguir modificando el código de backend de php para lograr una conexión éxitosa.
+
+3) De a momento se ha presentado dificultad en aprendizaje.
+
+
+Miércoles 22:
+
+1) Se optó por modificar la base de datos en vista a los errores presentes, además de realizar un código nuevo que fue suminis-
+trado por Nelson B.
+
+2) Seguir trabajando en el código de conexión a la BD del concurso.
+
+3) De a momento no se ha presentado mayor dificultad que la de aprendizaje.
