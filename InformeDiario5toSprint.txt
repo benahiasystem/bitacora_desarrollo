@@ -38,3 +38,13 @@ Lunes 17/09
 	3) Ninguna
 
 Horas dedicada: 3Horas
+---
+---
+Martes 18/09
+	1) Realicé una landing de prueba en mi cuenta de Mailchimp para copiar el formato en la cuenta de Bit&Nibs cuando se tenga la información completa del evento. Le agruegué un código de redirección automática a la página bitnibs.com cuando el usuario envía sus datos.
+	2) Ir a la reunión de cierre del sprint en el ImpactHUB y hacer la reflexión del mismo.
+	3) Cómo no está la información del evento no realicé la landing definitiva.
+
+Horas dedicadas: 3Horas
+---
+---
