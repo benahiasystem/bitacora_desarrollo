@@ -1,0 +1,20 @@
+Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Lunes 24/09 al Lunes 01/10 de 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de mañana hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+---
+---
+
+Lunes 24/09
+	1) Investigué sobre algunas cosas que puedo aplicar en las tareas de este nuevo sprint. Fui a la reunión de inicio donde discutimos sobre las HU a seleccionar y la distrubción de las tareas.
+	2) Voy a la reoganizar las ideas planteadas para subir las tareas a Trello mientras se migra el formato de tablero a GitHub
+	3) Aún no manejo como aplicar el estilo "Trello" dentro de GitHub, eso tomará algún tiempo de adaptación.
+
+Horas dedicadas: 4horas
+
+---
+---
