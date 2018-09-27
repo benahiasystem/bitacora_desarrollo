@@ -30,3 +30,11 @@ Martes 25/09
         que ya solicite a Marketing, necesito investigar bien como ajustar el tamaño de las 
         fotos al formato que se tiene en la página de entrevista de B&N. Se crearon las HU
         momentaneamente en Trello,hay que migrarlas a GitHub.
+
+Miércoles 26/09
+
+       1) Se hizo una documentación basado en informes sobre Blockchain para determinar palabras
+       clave (SEO) y presentarlas en un informe.
+       2)En la entrevista de Maria Fernanda Di Giacobbe y la sección de entrevistas
+       3)Existen dificultades para migrar de Trello a GitHub en cuanto a la gestión del proyecto
+       con Scrum.
