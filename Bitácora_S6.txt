@@ -1,0 +1,30 @@
+Sprint 6:
+
+Septiembre 2018
+
+Lunes 24:
+
+1) Se conversó con todo el equipo la planificación de nuevas tareas con respecto al
+lanzamiento de la ICO, tomando en consideración la redacción de informes con respecto a
+la blockchain en cultivos para la estrategia de marketing, el lenguaje a programar para 
+la maquetación de chocosfera.com, el orden de las bases de datos de los usuarios para hacerle llegar nuestros newsletters, etc.
+
+2) En subir las tareas una vez aprobada la maqueta de chocosfera, además de estudiar el tema de
+Git para poder implementar los códigos de las páginas a desarrollar con todo el equipo de
+desarrollo.
+
+3) Es bastante trabajo, se vuelve difícil poder tener una visión de los objetivos planteados
+para el desarrollo del producto ya que no se cuenta con experiencia y experticia para dar
+con una planificación limpia.
+
+Miércoles 25:
+
+1) Se conversó con la gerencia sobre algunos problemas al subir todas las tareas que se
+pretenden resolver en el Sprint, sin embargo fue subido con éxito para el transcurso de la tarde.
+Se realizó la tarea de la búsqueda de palabras claves para el posicionamiento SEO de los posibles
+artículos para el Blog de Chocosfera. Terminando la primera parte de este documento.
+
+2) Estaré trabajando en la maquetación de la sección contactos de chocosfera.com
+
+3) Se habló durante el Sprint Planning que se debía migrar el tablero de Trello a GitHub y
+todavía no se cuenta con la experticia de manejar bien este gestor.
