@@ -1,0 +1,40 @@
+Bitácora de trabajo de Jesús Correa para el equipo de Desarrollo - Lunes 24 de Septiembre al Lunes 1 de Octubre 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de mañana hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+--- 
+
+Lunes 24/09
+
+	1) Estuve presente en la reunión de inicio de Sprint 6 en el ImpactHUB,
+        la primera parte de la reunión fue respecto al cambio de ejecución del
+        proyecto, se plantea una campaña para Indiegogo y el lanzamiento de la ICO.
+        Se coordinaron las historias de usuario a desarrollar durante este sprint.
+	2) En realizar HU faltantes y la designación de tareas faltantes.
+        3) Se necesita de la aprobación del maquetado de Chocosfera.
+
+Martes 25/09
+
+        1)Realice HU referente a las entrevistas que de Maria Fernanda Di Giacobbe 
+        (Aplicar correciones y agregar fotos)y Rosa Spinosa (Crear página). Se debe
+        mejorar y corregir la sección de las entrevista en el home de Bit&Nibs.
+        Aplique las correcciones a la página de Maria Fernanda y agregue las fotos (falta
+        acomodar las fotos con CSS). Organice mi carpeta de Bit&Nibs (repositorio local)
+        2)En acomodar con CSS las fotos agregadas, trabajar en la sección de entrevistas
+        del home.
+        3) Me hace falta el contenido (entrevista y material fotográfico) de Rosa Spinosa
+        que ya solicite a Marketing, necesito investigar bien como ajustar el tamaño de las 
+        fotos al formato que se tiene en la página de entrevista de B&N. Se crearon las HU
+        momentaneamente en Trello,hay que migrarlas a GitHub.
+
+Miércoles 26/09
+
+       1) Se hizo una documentación basado en informes sobre Blockchain para determinar palabras
+       clave (SEO) y presentarlas en un informe.
+       2)En la entrevista de Maria Fernanda Di Giacobbe y la sección de entrevistas
+       3)Existen dificultades para migrar de Trello a GitHub en cuanto a la gestión del proyecto
+       con Scrum.
