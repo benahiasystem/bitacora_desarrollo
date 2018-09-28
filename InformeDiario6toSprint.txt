@@ -18,3 +18,26 @@ Horas dedicadas: 4horas
 
 ---
 ---
+
+Martes 25/09
+	1) Agregué algunas de las tareas en Trello mientras decidian si se iba a trabajar o no con proofoftree.com para este sprint. Descagué e instalé WordPress en mi servidor local para trabajar con él en la parte front-end de Chocosfera en base a lo que decidimos en equipo.
+	2) Voy a buscar sobre las plantillas, scripts, plugins y efectos que pidió EDM en la maquetación de Chocosfera.
+	3) Ninguno
+
+Horas dedicadas: 1:30min
+---
+---
+
+Miércoles 26/09
+	1) Investigué sobre las web de ejemplos que había elegido EDM, todo el front-end es con WordPress pero con templates y plugins pagos, como "Woocommerce", "Mailchimp for Wordpress", "RevolutionSlider" entre otros.
+	2) Organizaré las bases de datos en Mailchimp mientras averiguo más plantillas y plugins que sean open source donde podamos trabajar para hacer el diseño web de chocosfera.
+	3) No pude exportar los scripts JQuery para usarlos en otras plantillas gratis porque no domino bien WordPress en la aplicación de "código tercerizado". Eso puede generar un poquito de lentitud en el trabajo
+
+Horas dedicadas: 3:30min
+
+---
+---
+Jueves 27/09
+	1) Organicé las bases de datos en Mailchimp agregándole un identificador por grupos a cada persona suscrita a las diferentes listas que habían, unificando todas las listas en una llamada "lista Maestra" donde se puede utilizar y enviar correos masivos según el objetivo. Entre los grupos creados están usuarios interesados en: Cacao, Chocolate, Tenología. Ellos se tomaron de la lista de ChocoPowerDay, Cursos de Chocolate, Talleres de Cacao y eventos.
+	2) Haré el primer banner o sección del home de Chocosfera con WordPress de manera incial para que sea discutido por el equipo.
+	3) Ninguna
