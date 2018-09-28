@@ -38,3 +38,10 @@ Miércoles 26/09
        2)En la entrevista de Maria Fernanda Di Giacobbe y la sección de entrevistas
        3)Existen dificultades para migrar de Trello a GitHub en cuanto a la gestión del proyecto
        con Scrum.
+
+Jueves 27/09
+       
+       1) Se agregaron las fotos de Maria Fernanda Di Giacobbe y se ajustaron para que fueran responsive,
+          se realizó el documento de SEO basado en busquedas de Instragram y documento sobre Blockchain
+       2) En la página de entrevista de Rosa Spinosa y sección del home
+       3) Tuve problemas con la conexión a internet que retraso un poco mi trabajo.
