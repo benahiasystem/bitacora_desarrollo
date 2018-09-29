@@ -44,4 +44,11 @@ Jueves 27/09
        1) Se agregaron las fotos de Maria Fernanda Di Giacobbe y se ajustaron para que fueran responsive,
           se realizó el documento de SEO basado en busquedas de Instragram y documento sobre Blockchain
        2) En la página de entrevista de Rosa Spinosa y sección del home
-       3) Tuve problemas con la conexión a internet que retraso un poco mi trabajo.
+       3) Tuve problema con la conexión a internet que retraso un poco mi trabajo.
+
+Viernes 28/09
+       1) Se realizó la páginade entrevista de la profesora Rosa Spinosa, se realizó la sección de las 
+          entrevistas en el home de B&N.
+       2)En la maquetación de chocosfera, especificamente en la sección de equipos.
+       3) Requiero redimensionar una imagen, para que visualmente quede alineada la sección del home. No
+       manejo herramientas de edición de fotos. Esto es lo que me impide subir ya la sección a GitHub.
