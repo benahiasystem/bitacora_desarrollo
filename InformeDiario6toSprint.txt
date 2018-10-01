@@ -53,3 +53,11 @@ Viernes 28/09
 Horas dedicadas: 3horas
 ---
 ---
+Domingo 30/09
+	1) Trabajé en la sección inicial de Chocosfera en html5 y como framework css y js usé Bootstrap. No se seguirá trabajando con Wordpress porque no se hará la sección blog todavía y eso debe discutirse en el equipo.
+	2) Subir el código al repositorio de GitHub y ponerlo en GitHub Pages para que el equipo pueda visualizar el resultado. También agregué a mailchimp gran parte de la base de datos de Fundaciones, asociaciones, productores y comercializadores de cacao y chocolate que investigó EDI.
+	3) Algunas complicaciones en el orden del código, se pudo resolver pero la tarea me tomó algo más de tiempo.
+
+Horas dedicadas: 8h
+---
+---
