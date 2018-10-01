@@ -52,3 +52,21 @@ Viernes 28/09
        2)En la maquetación de chocosfera, especificamente en la sección de equipos.
        3) Requiero redimensionar una imagen, para que visualmente quede alineada la sección del home. No
        manejo herramientas de edición de fotos. Esto es lo que me impide subir ya la sección a GitHub.
+
+Sábado 29/09
+      1) Se término el ajuste de la sección de entrevista, con el apoyo de Andy Brito del equipo de Marketing 
+       se ajustó la imagen.
+      2) En la sección de equipos para chocosfera.
+      3) Se pensaba trabajar con WordPress pero por dificultades que comprometen el desarrollo a futuro de chocosfera
+      y que lo solicitado por marketing presentaba plantillas de WordPress pagas, se descartó la idea.
+
+Domingo 30/09
+      1) Se busco realizó investigación sobre templates referentes a "meet the team"
+      2) En el desarrollo de la sección.
+      3) Ninguna
+
+Lunes 01/10
+      1) Se modifico un templates de "meet the team" adaptando a lo que será chocosfera (esto debe ser revisado por Marketing
+      para modificaciones y sugerencias)
+      2) Cierre del sprint.
+      3) Ninguna
