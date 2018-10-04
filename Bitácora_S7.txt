@@ -1,0 +1,22 @@
+Bitácora de trabajo para Sprint 7 de Johameli Muñoz - Miércoles 03/10 al Miércoles 10/10 de 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de mañana hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+Octubre:
+
+Miércoles 03/10/2018
+
+1) Me reuní con todo el equipo de la fundación en el Impact Hub, poniéndome al tanto de todas las notificaciones de interés. 
+Como Product Owner desarrollé las HU según los objetivos establecidos para este Sprint 7. Organicé un tablero de Kanbas en GitHub,
+colocando cada una de las tareas sugeridas por los integrantes del EDT, se acordó que cada uno daría la estimación a cada actividad
+en el transcurso de este día.
+
+2) Dedicaré parte de mi tiempo nocturno para desarrollar una planificación de cómo deben ser las migraciones de cada una de las
+tareas y las HU que se encuentran en el tablero de Trello para que todo los integrantes del EDT lo puedan ejecutar y exista
+un orden en los archivos.
+
+3) Presento problemas de internet.
