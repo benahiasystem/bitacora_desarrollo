@@ -1,0 +1,39 @@
+Bitácora de trabajo de Jesús Correa para el equipo de Desarrollo - Miércoles 03 de Octubre al Miércoles 10 de Octubre 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de mañana hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+---   
+
+Miércoles 03/10
+       1) Estuve presente en la reunión de inicio de Sprint 7 en el ImpactHUB,
+        Se plantearon las historias de usario respecto a proof of tree y la migración 
+        de trello a GitHub.
+       2) En la migración de las tareas del sprint 3 a GitHub
+       3) Familiarizarse más con el gestor de proyectos de GitHub
+       
+
+Jueves 04/10
+       
+
+Viernes 05/10
+      
+
+Sábado 06/10
+      
+
+Domingo 07/10
+
+      
+Lunes 08/10
+
+
+Martes 09/10
+
+
+Miércoles 10/10
+
+     
