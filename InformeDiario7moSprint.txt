@@ -1,0 +1,19 @@
+Bitácora de trabajo de Luigi Sanabria para el equipo de Desarrollo - Miércoles 03/10 al Miércoles 10/10 de 2018:
+
+1) ¿Qué hice desde la última reunión diaria hasta ahora?
+
+2) ¿En qué voy a estar trabajando el día de mañana hasta la próxima reunión diaria?
+
+3) ¿Qué problemas o impedimentos tengo?
+
+---
+---
+
+Miécoles 03/10
+	1) 
+	2) Elaborar la planificación del Sprint con sus HU y respectivas tareas, estimación y reglas a seguir. Subirlas a GitHub donde llevaremos el control de todo, pues ya no se usará Trello.
+	3) No se ha trabajado de esta forma antes por lo cúal se pudiera generar algun incoveniente en el manejo del tablero.
+
+Horas dedicadas: 4Horas
+---
+---
