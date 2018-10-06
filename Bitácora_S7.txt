@@ -20,3 +20,26 @@ tareas y las HU que se encuentran en el tablero de Trello para que todo los inte
 un orden en los archivos.
 
 3) Presento problemas de internet.
+
+
+Jueves 04/10/2018
+
+1) --------------
+
+2) --------------
+
+3) Cuando disponía de tiempo para dedicar a las tareas no tenía electricidad.
+
+
+Viernes 05/10/2018
+
+1) Estuve intentando comunicarme con mi equipo para la subida de los elementos del Sprint 4,
+pero tuve respuesta tarde. Sin embargo me coloqué en el desarrollo de la tarea de animaciones
+de JavaScript para la página de Proof of Tree.
+
+2) Posiblemente estaré realizando una pequeña maquetación y diseño de lógica gráfica de la
+página de Proof of Tree en vista de que no se ha tenido el entregable del equipo de marketing
+de que iba a realizar el diseño de la misma.
+
+3) El equipo que disponía al comienzo del proyecto se me dañó, estoy trabajando con una PC
+un poco lenta para desarrollar efectivamente mis entregables.
