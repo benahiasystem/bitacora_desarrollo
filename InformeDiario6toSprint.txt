@@ -41,3 +41,23 @@ Jueves 27/09
 	1) Organicé las bases de datos en Mailchimp agregándole un identificador por grupos a cada persona suscrita a las diferentes listas que habían, unificando todas las listas en una llamada "lista Maestra" donde se puede utilizar y enviar correos masivos según el objetivo. Entre los grupos creados están usuarios interesados en: Cacao, Chocolate, Tenología. Ellos se tomaron de la lista de ChocoPowerDay, Cursos de Chocolate, Talleres de Cacao y eventos.
 	2) Haré el primer banner o sección del home de Chocosfera con WordPress de manera incial para que sea discutido por el equipo.
 	3) Ninguna
+
+Horas dedicadas: 3horas
+---
+---
+Viernes 28/09
+	1) Usé una de las plantillas de WordPress para hacer la primera sección de chocosfera incluyendo la navbar y algunos botones.
+	2) Seguiré trabjando en la sección inicial de Chocosfera
+	3) Wordpress tiene muchas limitaciones en su versión gratuita, lo cúal dificulta el flujo de trabajo.
+
+Horas dedicadas: 3horas
+---
+---
+Domingo 30/09
+	1) Trabajé en la sección inicial de Chocosfera en html5 y como framework css y js usé Bootstrap. No se seguirá trabajando con Wordpress porque no se hará la sección blog todavía y eso debe discutirse en el equipo.
+	2) Subir el código al repositorio de GitHub y ponerlo en GitHub Pages para que el equipo pueda visualizar el resultado. También agregué a mailchimp gran parte de la base de datos de Fundaciones, asociaciones, productores y comercializadores de cacao y chocolate que investigó EDI.
+	3) Algunas complicaciones en el orden del código, se pudo resolver pero la tarea me tomó algo más de tiempo.
+
+Horas dedicadas: 8h
+---
+---
