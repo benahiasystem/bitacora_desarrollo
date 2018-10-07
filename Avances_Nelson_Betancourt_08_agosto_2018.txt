@@ -1,0 +1,13 @@
+Participante: Nelson Betancourt
+
+viernes 10/08
+este dia lo programe para pasar la imagen ISO con el sistema Raspbian de la memoria de 8GB a la memoria de 16GB 
+tuve un inconveniente con la memoria de 16GB que no quiso copiar los datos debido
+a un mal formato de la misma.
+
+dia Lunes 6 y Martes 7
+no hice ningun avance debido al inconveniente ocurrido el dia
+Viernes. (hice todo a mi alcance para recuperarla pero
+esta memoria quedo inservible, y ya fue repuesta por otra memoria de 16GB).
+
+Miercoles 8 copiado de la imagen ISO con el sistema Raspbian de la memoria de 8GB a la nueva memoria de 16GB.
