@@ -1,0 +1,81 @@
+Participante: Nelson Betancourt
+
+25 de julio 
+
+Instalar Raspbian en la Raspberry
+- se entregó la instalación del sistema Raspbian.
+
+- tambien se instaló servidor remoto a la Raspberry pi para así no depender del teclado,
+ ratón y monitor para poder acceder a ella y poder trabajar con un acceso remoto.
+ 
+27 de julio
+
+ya se ha instalado el acceso remoto para acceder mediante una red LAN (red de area local), 
+falta configurarlo para poder acceder desde redes WAN (red de área amplia) es decir desde 
+cualquier parte con acceso a Internet. De esta manera podemos trabajar en la Raspberry en 
+cualquier momento y no solo cuando estemos reunidos en el ImpactHub.
+
+
+30 de julio
+
+ya se ha instalado:
+Acceso remoto SSH
+Acceso RDP mediente redes LAN
+Servidor VNC para acceso WAN
+
+ya se ha culminado con esta etapa del avance de Sprint.
+
+
+Fecha: Miércoles 01/08/2018
+- configuracion de escritorio remoto VNC.
+- indagar la mejor manera de mejorar el rendimiento de la Raspberry
+
+Fecha: Jueves 02/08/2018
+- mejora en en el rendimiento de los recursos de las Raspberry.
+- Instalacion del software Zram que mejora el uso de la memoria RAM
+
+Fecha Viernes 03/08/2018
+- Respaldo mediante imagen ISO de memoria de 8GB a memoria de 16GB. (la memoria de 8GB se quedo corta)
+
+viernes 10/08
+este dia lo programe para pasar la imagen ISO con el sistema Raspbian de la memoria de 8GB a la memoria de 16GB 
+tuve un inconveniente con la memoria de 16GB que no quiso copiar los datos debido
+a un mal formato de la misma.
+
+dia Lunes 6 y Martes 7
+no hice ningun avance debido al inconveniente ocurrido el dia Viernes. (hice todo a mi alcance para recuperarla pero
+esta memoria quedo inservible, y ya fue repuesta por otra memoria de 16GB).
+
+Miercoles 8 copiado de la imagen ISO con el sistema Raspbian de la memoria de 8GB a la nueva memoria de 16GB.
+
+
+Fecha 29 de agosto
+
+EDT2.2-S3:Customizar el sistema operativo RaspBerry con elementos de la chocosfera.
+
+EDT2.1-S3: Generar documento al diseñador para la creación de logos.
+
+
+Fecha 10 septiembre
+
+- Realice el diagrama de componentes de la chocosfera.
+- hice algunas mejoras dias posteriores.
+- estuve aprendiendo sobre node.js, libreria web3.js y smart contract ERC721
+
+
+Fecha 07 Octubre
+
+- realice algunos diagramas de los smart contract venta de árboles token ERC721.
+
+Fecha 08 Octubre 
+
+- segui con el desarrollo de diagramas de los smart contract venta de árboles y el de trazabilidad del comercio del cacao (General).
+
+
+
+
+
+
+
+
+
