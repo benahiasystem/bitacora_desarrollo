@@ -71,6 +71,11 @@ Fecha 08 Octubre
 
 - segui con el desarrollo de diagramas de los smart contract venta de árboles y el de trazabilidad del comercio del cacao (General).
 
+Fecha 10 Octubre 
+
+- Terminar los diagramas que faltaban y subir las tareas del sprint 5 al github.
+
+- ya todas mis tareas y actividades fueron subidas a github.
 
 
 
